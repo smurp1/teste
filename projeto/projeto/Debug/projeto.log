@@ -1,0 +1,10 @@
+﻿  calculadora.cpp
+C:\Users\samue\OneDrive\Documentos\GitHub\teste\projeto\projeto\calculadora.cpp(5,24): error C2653: 'calculadora': não é um nome de classe ou de namespace
+  Origem.cpp
+C:\Users\samue\OneDrive\Documentos\GitHub\teste\projeto\projeto\Origem.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\samue\OneDrive\Documentos\GitHub\teste\projeto\projeto\Origem.cpp(2,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\samue\OneDrive\Documentos\GitHub\teste\projeto\projeto\Origem.cpp(8,2): error C2065: 'calculadora': identificador não declarado
+C:\Users\samue\OneDrive\Documentos\GitHub\teste\projeto\projeto\Origem.cpp(8,15): error C2065: 'calc': identificador não declarado
+C:\Users\samue\OneDrive\Documentos\GitHub\teste\projeto\projeto\Origem.cpp(8,37): error C2061: erro de sintaxe: identificador 'calculadora'
+C:\Users\samue\OneDrive\Documentos\GitHub\teste\projeto\projeto\Origem.cpp(9,34): error C2065: 'calc': identificador não declarado
+  Gerando Código...
