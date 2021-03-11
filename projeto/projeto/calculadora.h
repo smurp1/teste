@@ -10,6 +10,7 @@ class calculadora
 public:
 	
 float soma(float opA, float opB);
+float sub(float opA, float opB);
 
 
 
