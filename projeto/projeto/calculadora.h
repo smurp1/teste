@@ -14,6 +14,8 @@ float soma(float opA, float opB);
 
 
 
+float mult(float opA, float opB);
+
 
 };
 //#endif

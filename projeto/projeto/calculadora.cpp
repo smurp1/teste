@@ -6,3 +6,8 @@ float calculadora::soma(float opA, float opB)
 {
 	return opA+opB;
 }
+
+float calculadora::mult(float opA, float opB)
+{
+	return opA*opB;
+}
