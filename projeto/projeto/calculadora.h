@@ -12,6 +12,7 @@ public:
 float soma(float opA, float opB);
 float sub(float opA, float opB);
 
+float div(float opA, float opB);
 
 
 
